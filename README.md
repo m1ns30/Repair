@@ -1,2 +1,2 @@
-# VanillaElytra
-This plugin implements vanilla Elytra into PocketMine-MP
+# Repair
+This plugin implements item Repair into PocketMine-MP
